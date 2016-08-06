@@ -9,7 +9,6 @@ image:
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mZ1Pe6UJyTo?list=PLqjPa29lMiE3eR-gK80irr3xdUiRbIMeg" frameborder="0" allowfullscreen></iframe>
-<!-- {% youtube mZ1Pe6UJyTo %} -->
 
 Tom Gertin of the DOS/HIU and I spoke at State of the Map US 2016.  It was my
 first time presenting at a conference related to my work...the only other time I
