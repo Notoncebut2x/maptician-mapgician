@@ -1,12 +1,11 @@
 ---
-permalink: /about/
-layout: page
+layout: default
 title:  "about"
 defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: page
     values:
       layout: single
       author_profile: true

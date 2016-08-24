@@ -15,6 +15,7 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
+# permalink: /about/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
@@ -36,8 +37,8 @@ owner:
   avatar: me.jpg # 160x160 px image for author byline
   disqus-shortname:
 
+# include: ["_pages"]
 include:
-  - _pages
   - .htaccess
 exclude:
   - "*.less"
