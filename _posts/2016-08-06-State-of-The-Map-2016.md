@@ -4,8 +4,6 @@ title: State of the Map US 2016
 image:
   teaser: logo-nostamp.png  
   feature:
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: https://mademistakes.com #url to their site or licensing
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mZ1Pe6UJyTo?list=PLqjPa29lMiE3eR-gK80irr3xdUiRbIMeg" frameborder="0" allowfullscreen></iframe>
