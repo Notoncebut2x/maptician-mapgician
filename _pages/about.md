@@ -1,17 +1,8 @@
 ---
-permalink: /about/
 layout: default
-title:  "about"
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: page
-    values:
-      layout: single
-      author_profile: true
----
+title: about
 permalink: /about/
+---
 
 # About this Site
 
