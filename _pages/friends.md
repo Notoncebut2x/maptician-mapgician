@@ -1,7 +1,8 @@
 ---
-layout: default
-title: friends
-permalink: /friends/
+defaults:
+permalink: "/friends/"
+layout: page
+title:  "friends"
 ---
 
 My Amigo's sites:
