@@ -1,7 +1,7 @@
 ---
 defaults:
 permalink: "/friends/"
-layout: page
+layout: default
 title:  "friends"
 ---
 
