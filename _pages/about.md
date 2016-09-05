@@ -1,7 +1,7 @@
 ---
 defaults:
 permalink: /about/
-layout: default
+layout: article
 title:  about
 ---
 
