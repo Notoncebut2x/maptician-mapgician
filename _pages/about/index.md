@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about
-permalink: /about/s
+permalink: "/about/"
 ---
 
 This site is a way for me to organize my notes and thoughts on various projects I work on.  It is written in manner that may seem intended for an external audiences, but this is really just a trick I play on myself to put pressure on writing clear instructions and notes to myself (thanks [Jordi](https://jcastellssala.com/){:target="_blank"} for the inspiration for this).
