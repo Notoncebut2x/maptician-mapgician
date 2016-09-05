@@ -38,7 +38,7 @@ owner:
 
 # include: ["_pages"]
 include:
-  - ["_pages"]
+  # - ["_pages"]
   - .htaccess
 exclude:
   - "*.less"
