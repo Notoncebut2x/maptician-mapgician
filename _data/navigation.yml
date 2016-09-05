@@ -5,8 +5,8 @@
   excerpt:
   image:
 
-- title: about
-  url: maptician-mapgician/about.md
+# - title: about
+#   url:
 
 - title: cartoVitae
   url: http://notoncebut2x.github.io/CartoVitae/

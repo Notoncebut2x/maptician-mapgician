@@ -14,7 +14,8 @@ feed:
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
+permalink: /:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
