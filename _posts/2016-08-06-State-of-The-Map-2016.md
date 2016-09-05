@@ -12,7 +12,7 @@ Tom Gertin of the DOS/HIU and I spoke at State of the Map US 2016.  It was my
 first time presenting at a conference related to my work...the only other time I
 spoke was at a conference related to the statistical method I used in my Master's
 thesis.  If you are interested, you can watch the video above or checkout [the
-slides here](https://notoncebut2x.github.io/realityIsVirtual/#/){:target="_blank"} .
+slides here](https://notoncebut2x.github.io/realityIsVirtual/#/){:target="_blank"}.
 
 We spoke about our respective office's use of the Virtual Foreign Service
 Internship program.  The program allows students attending college, be it
