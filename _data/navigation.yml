@@ -7,9 +7,12 @@
 
 - title: about
   url: https://notoncebut2x.github.io/maptician-mapgician/about
+  excert "back to rorynealon.com"
 
 - title: cartoVitae
   url: http://notoncebut2x.github.io/CartoVitae/
+  excert: "Map-based Resume/CV for myself"
 
 - title: friends
   url: https://notoncebut2x.github.io/maptician-mapgician/friends
+  excert: "Links to my friend's pages"
