@@ -6,6 +6,10 @@ image:
   feature:
 ---
 
+
+<iframe width="560" height="315" src="https://youtu.be/tqIDmf91_h8" frameborder="0" allowfullscreen></iframe>
+
+
 The last brew of 2016 will be a Kölsch and is my first attempt at lagering.  It should be done in six weeks, just in tiem for groundhog day.
 
 On December 17th, 2016 I brewed with [Safy](https://twitter.com/_cloudbuster){:target="_blank"} in [Max's](https://twitter.com/richmanmax?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor){:target="_blank"} backyard in Deanwood, Washington DC.  We loosely followed DC's own, the mad fermentationist's [fall kolsch](http://www.themadfermentationist.com/2010/09/fall-kolsch-recipe.html){:target="_blank"} recipe and  purchased our ingredients from [3 Star Brewing Co.'s](http://3starsbrewing.com/){:target="_blank"} Homebrew Supply store.
