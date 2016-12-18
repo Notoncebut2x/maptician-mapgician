@@ -12,14 +12,13 @@ On December 17th, 2016 I brewed with [Safy](https://twitter.com/_cloudbuster){:t
 
 EOTR or "East of the River" comes from a hashtag popular with DC resident living on the eastern bank of the Anacostia River.  A bit of wishful thinking with the other brewers and I but we are assuming this is the first post-prohibition Kölsch brewed in the EOTR.  Recipe is as follows:
 
-## Recipe
 
-### Background
+__Background__
 12-17-2016
 Brewed in EOTR @ Max's
 With Safy and Max and Audrey
 
-### Ingredients
+__Ingredients__
 - 11 lbs of Plisner
 - 1 lb of Vienna
 - 1 lb of wheat (.76 of white and .24 of red)
@@ -27,18 +26,21 @@ With Safy and Max and Audrey
 - 1 gram of gypsum
 - Kölsch Yeast
 
-### Mash
+__Mash__
 5 gallons of DC Tap at 150°F for 75 minutes
 
-### Lautering
+__Lautering__
 Mashed out at 170 and spargared ~170
 
-### Wort
+__Wort__
 Boiled for 90 Minutes
-- 2 2/3 Grams of hops at 60 minutes
-- 1 gram of yeast nutrient at 15 minutes
-- 1 Wirlfloc tablet at 15 minutes
-- 1 1/3 grams of hops at 5 minutes
+  - 2 2/3 Grams of hops at 60 minutes
+  - 1 gram of yeast nutrient at 15 minutes
+  - 1 Wirlfloc tablet at 15 minutes
+  - 1 1/3 grams of hops at 5 minutes
 
-### Yeast Pitch
+__Yeast Pitch__
 At 84°F
+
+__Primary Fermentation__
+At 68°F
