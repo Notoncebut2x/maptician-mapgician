@@ -33,7 +33,8 @@ With Safy and Max and Audrey
 Mashed out at 170 and spargared ~170
 
 #### Wort
-Boiled for 90 Minutes
+Boiled for 90 Minutes:
+
   - 2 2/3 Grams of hops at 60 minutes
   - 1 gram of yeast nutrient at 15 minutes
   - 1 Wirlfloc tablet at 15 minutes
