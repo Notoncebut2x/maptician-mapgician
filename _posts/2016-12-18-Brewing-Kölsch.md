@@ -6,8 +6,7 @@ image:
   feature:
 ---
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tqIDmf91_h8&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/tqIDmf91_h8" frameborder="0" allowfullscreen></iframe>
 
 
 The last brew of 2016 will be a Kölsch and is my first attempt at lagering.  It should be done in six weeks, just in tiem for groundhog day.
