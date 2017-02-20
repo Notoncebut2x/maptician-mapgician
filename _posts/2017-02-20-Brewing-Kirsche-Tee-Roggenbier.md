@@ -1,8 +1,7 @@
 ---
 layout: article
-title: EOTR Kölsch
+title: Kirsche Tee Roggenbier
 image:
-  teaser: brewingKolsch.jpg
   feature:
 ---
 
