@@ -6,7 +6,7 @@
   image:
 
 - title: about
-  url: http://rorynealon.com/about/
+  url: /about/
   excerpt: "what the heck is this?"
 
 - title: cartoVitae
@@ -14,5 +14,5 @@
   excerpt: "Map-based Resume/CV for myself"
 
 - title: friends
-  url: http://rorynealon.com/friends/
+  url: /friends/
   excerpt: "Links to my friend's pages"
