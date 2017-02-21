@@ -11,7 +11,7 @@
 
 - title: cartoVitae
   url: http://notoncebut2x.github.io/CartoVitae/
-  excerpt: "Map-based Resume/CV for myself"
+  # excerpt: "Map-based Resume/CV for myself"
 
 - title: friends
   url: /friends/
