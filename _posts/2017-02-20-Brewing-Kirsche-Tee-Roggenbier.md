@@ -25,6 +25,7 @@ OG @ 1.064
 - 3.08 lbs Pilsner
 - 1 lbs Vienna 
 - Rice hulls 
+- White Labs WLP300 (Hefeweizen Ale) yeast
 
 #### Mash
 - 7 Gallons at 127 F for 30 minutes
