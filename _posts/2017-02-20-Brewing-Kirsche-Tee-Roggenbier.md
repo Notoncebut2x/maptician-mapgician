@@ -3,7 +3,7 @@ layout: article
 title: Kirsche Tee Roggenbier
 image:
   teaser: brewingRoggenbier.jpg
-  feature:
+  feature: Roggenbier with Sakura tea
 ---
 
 The first beer [Safy](https://twitter.com/_cloudbuster){:target="_blank"} and I are brewing for 2017 is a Kirsche Tee [Roggenbier](https://www.craftbeer.com/craft-beer-muses/roggenbier-return-rye){:target="_blank"} for the DC Homebrewers Club [Cherry Blossom Competition](http://www.dchbcompetition.com/){:target="_blank"}.  Last year we attempted to brew our first sour beer with a gose infused with [sakura tea](https://www.amazon.com/Pickled-Sakura-Cherry-Blossoms-1-06oz/dp/B00A3ANO0U/ref=pd_sim_325_1?_encoding=UTF8&pd_rd_i=B00A3ANO0U&pd_rd_r=QBSACAXJ7317JV2CE21K&pd_rd_w=Ix4hA&pd_rd_wg=HSNWr&psc=1&refRID=QBSACAXJ7317JV2CE21K){:target="_blank"}.  The results were rather cheesy and after months of adding brett to try and rescue it (thats another story), we decided not submitting it.  
