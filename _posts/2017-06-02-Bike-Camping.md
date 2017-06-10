@@ -16,7 +16,7 @@ Day One started at the Canal Trail's entrance in Georgetown with a 33 mile bike 
 
 Day Two had us crossing the mighty Potomac at [White's Ferry](http://www.poolesvillemd.gov/338/Whites-Ferry){:target="_blank"}
 
-[!Bikes on White's Ferry](../images/bikeOnWhitesFerry.jpg "A simple image placeholder service.")
+[Bikes on White's Ferry](../images/bikeOnWhitesFerry.jpg "A simple image placeholder service.")
 
 From there we picked up the Washington & Old Dominion trail in Leesburg.  We made a couple of de-tours to local breweries Old Ox and Lost Rhino, as well as an amazing North Carolinia BBQ joint but were able to make it to the Reston Wiehle metro station hop on and make it to DC in time to watch the second half of the Champions League final...Hala Madrid!
 
