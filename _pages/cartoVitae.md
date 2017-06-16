@@ -5,4 +5,4 @@ layout: default
 title:  "Carto Vitae"
 ---
 
-<iframe style="position: absolute; width: 95%; height: 75%; border: none" src="http://notoncebut2x.github.io/CartoVitae/" ></iframe>
+<iframe style="position: absolute; width: 95%; height: 95%; border: none" src="http://notoncebut2x.github.io/CartoVitae/" ></iframe>
