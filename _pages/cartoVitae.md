@@ -1,10 +1,9 @@
 ---
 defaults:
-permalink: "/birds/"
+permalink: "/cartoVitae/"
 layout: default
-title:  "birds"
+title:  "Carto Vitae"
 ---
 
-My eBird Profile Showing Bird Observations I have submitted:  
 
-<iframe style="position: absolute; width: 95%; border: none" src="http://ebird.org/ebird/profile/NDk4NDUz/world" onload="this.height=screen.height;"></iframe>
+<iframe style="position: absolute; width: 95%; border: none" src="http://notoncebut2x.github.io/CartoVitae/" onload="this.height=screen.height;"></iframe>
