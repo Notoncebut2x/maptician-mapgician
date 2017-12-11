@@ -1,14 +1,12 @@
 ---
-layout: article
-title: bike camping
-image:
-  teaser: roryCOCanal.jpg
-  feature: Bike Camping on the C&O and W&OD Trails
+layout: post
+title: Bike Camping
+tags: [bike, biking, trip, camping]
 ---
 
 The most expensive purchased I have made in my life (measured in dollars, time, pain, joy, and sweat) is my [Bianchi Lupo Bicylce](http://www.bianchiusa.com/bikes/road/all-road/lupo/){:target="_blank"}. It has brought me to work, and I have taken her out on joy rides ( SF 2 Cupertino, Fall Foliage Ride in the Appalachians, DC 2 Baltimore, etc... ) but I had yet to load her with gear and camp overnight.
 
-Enter bike guru and friend of the site [Max Jay Richman](http://richmanmax.com/){:target="_blank"}, who proposed a late spring route up the C&O Canal and back on the W&OD trail.
+Enter bike guru and friend of the site [Max Jay Richman](http://richmanmax.com/){:target="_blank"}, with whom I joined on a late spring route up the C&O Canal and back on the W&OD trail.
 
 Day One started at the Canal Trail's entrance in Georgetown with a 33 mile bike ride to [Turtle Run Campsite](https://www.canaltrust.org/pyv/turtle-run-campsite/){:target="_blank"}, a free biker/hiker campsite maintained by the C&O trust.  See the ride on strava!
 

@@ -1,9 +1,8 @@
 ---
-layout: article
+layout: post
 title: Hello World
-image:
-  teaser: helloWorld.png
-  feature:
+tags: []
+categories:
+  - blog
 ---
-
 This is my personal website version 2.0

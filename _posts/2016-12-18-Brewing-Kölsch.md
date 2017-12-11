@@ -1,9 +1,8 @@
 ---
-layout: article
+layout: post
 title: EOTR Kölsch
-image:
-  teaser: brewingKolsch.jpg
-  feature: East of the River Kölsch
+tags: [beer, homebrew, recipe]
+
 ---
 
 
@@ -18,14 +17,14 @@ EOTR or "East of the River" comes from a hashtag popular with DC resident living
 #### Background
 12-17-2016
 Brewed in EOTR @ Max's
-With Safy and Max and Audrey
+With: Safy and Max and Audrey
 OG @ 1.055
 
 #### Ingredients
 - 11 lbs of Plisner
 - 1 lb of Vienna
 - 1 lb of wheat (.76 of white and .24 of red)
-- .38 lb of Carapils
+- 0.38 lb of Carapils
 - 1 gram of gypsum
 - Kölsch Yeast
 

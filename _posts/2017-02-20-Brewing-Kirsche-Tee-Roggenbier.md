@@ -1,9 +1,8 @@
 ---
-layout: article
+layout: posts
 title: Kirsche Tee Roggenbier
-image:
-  teaser: brewingRoggenbier.jpg
-  feature: Roggenbier with Sakura tea
+tags: [beer, homebrew, recipe]
+
 ---
 
 The first beer [Safy](https://twitter.com/_cloudbuster){:target="_blank"} and I are brewing for 2017 is a Kirsche Tee [Roggenbier](https://www.craftbeer.com/craft-beer-muses/roggenbier-return-rye){:target="_blank"} for the DC Homebrewers Club [Cherry Blossom Competition](http://www.dchbcompetition.com/){:target="_blank"}.  Last year we attempted to brew our first sour beer with a gose infused with [sakura tea](https://www.amazon.com/Pickled-Sakura-Cherry-Blossoms-1-06oz/dp/B00A3ANO0U/ref=pd_sim_325_1?_encoding=UTF8&pd_rd_i=B00A3ANO0U&pd_rd_r=QBSACAXJ7317JV2CE21K&pd_rd_w=Ix4hA&pd_rd_wg=HSNWr&psc=1&refRID=QBSACAXJ7317JV2CE21K){:target="_blank"}.  The results were rather cheesy and after months of adding brett to try and rescue it (thats another story), we decided not submitting it.  
@@ -14,30 +13,30 @@ Lucky for us Roggenbeir, a german beer brewed with Rye, fit our needs perfectly 
 
 #### Background
 02-12-2017
-Brewed on Rory's back porch 
-With Safy, Patrick, Spoon and Cricket 
+Brewed in Beautiful Bloomingdale, Washington DC @ Rory's
+With: Safy, Patrick, Spoon and Cricket
 OG @ 1.064
 1 week @ 1.022
 
 #### Ingredients
-- 4.32 lbs Rye 
+- 4.32 lbs Rye
 - 3.6 lbsnWheat
 - 3.08 lbs Pilsner
-- 1 lbs Vienna 
-- Rice hulls 
+- 1 lbs Vienna
+- Rice hulls
 - White Labs WLP300 (Hefeweizen Ale) yeast
 
 #### Mash
-- 7 Gallons at 127 F for 30 minutes
-- 122 F protien rest for 35 minutes
-- 165 F saccharification rest 
+- 7 Gallons at 127°F for 30 minutes
+- 122°F protein rest for 35 minutes
+- 165°F sacch rest
 
 #### Lautering
 1.5 gallons mashed out at 170 F with new lautering system!
 
 #### Wort
 Boiled for 90 Minutes:
-- 1.5 g 1.5g Hallertau at 60 minutes 
+- 1.5 g 1.5g Hallertau at 60 minutes
 - 1 gram of yeast nutrient at 15 minutes
 - 1 Wirlfloc tablet at 15 minutes
 - 1 g El Dorado hops at 10 minutes
@@ -51,5 +50,7 @@ Started at 68°F but kept at 62-64°F
 Checked gravity after one week @ 1.022
 
 ### Secondary Fermentation
-TBD!
+One week in Secondary @ 66-69°F
 
+### Tasting Notes
+Syrupy!

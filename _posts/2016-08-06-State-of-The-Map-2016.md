@@ -1,9 +1,9 @@
 ---
-layout: article
+layout: post
 title: State of the Map US 2016
-image:
-  teaser: logo-nostamp.png  
-  feature:
+tags: [presentations, osm, conferences]
+categories:
+  - blog
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mZ1Pe6UJyTo?list=PLqjPa29lMiE3eR-gK80irr3xdUiRbIMeg" frameborder="0" allowfullscreen></iframe>
