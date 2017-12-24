@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Kirsche Tee Roggenbier
 tags: [beer, homebrew, recipe]
 
