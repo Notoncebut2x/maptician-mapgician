@@ -5,7 +5,8 @@ tags: [beer, homebrew, recipe]
 
 ---
 
-<img src="../../../images/AdministratorAle2017.png" alt="Admin Ale Label">
+<img src="../../../images/AdministratorAle2017.png" alt="Admin Ale Label" width="80%" height="80%">
+<br>
 Around this time of year, as tradition dictates,  [Safy](https://twitter.com/_cloudbuster){:target="_blank"} and myself brew a beer for our work's holiday party in order to give it as a gift to USAID's Administrator.  
 
 This year we chose to brew a Cream Ale since not only would it be a good pun on his name, Mark Green, but also as an ode to his home state of [Wisconsin](http://www.wmmb.com/){:target="_blank"} where dairy is a major industry and a [Cream Ale](https://newglarusbrewing.com/beers/OurBeers/Beer/spotted-cow){:target="_blank"} is a popular beer.
