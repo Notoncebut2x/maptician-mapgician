@@ -3,4 +3,7 @@
 highlighter: rouge
 url: https://rorynealon.com
 lsi: false
+include: ["_pages"]
+include:
+  - _pages
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
