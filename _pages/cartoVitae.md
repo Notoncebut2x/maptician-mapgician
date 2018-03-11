@@ -1,7 +1,7 @@
 ---
 defaults:
 permalink: "/cartoVitae/"
-layout: default
+layout: page
 title:  "Carto Vitae"
 ---
 
