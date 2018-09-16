@@ -1,7 +1,7 @@
 # Theme customization - please change from the defaults!
 
 # Color for top bar, links, etc
-highlight_color: '#b3b3b3'
+highlight_color: '#6B6B6B'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
@@ -21,7 +21,7 @@ social:
 # "Hi, I'm _______"
 name: Rory Nealon
 email: rpnealon@gmail.com
-tagline: "weak opinions, strongly held"
+tagline: "birds, beers, bikes"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-xxxx-x
