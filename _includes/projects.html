@@ -1,0 +1,11 @@
+ {% capture projects %}{{ page.title | slugify }}{% endcapture %}
+   
+
+<div id="home">
+<h3>{{ site.data.myprojects.projects_list_title }}</h3>
+    <ul>
+    {% for item in site.data.myprojects.projects %}
+        <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+    {% endfor %}
+    </ul>
+</div>
