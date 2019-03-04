@@ -3,6 +3,7 @@
   
   {% for tag in sorted_tags %}
     <a href="{{ '/tag/' | append:tag[0] }}.html" rel="tag">
+
       {{tag[0]}} 
   {% if forloop.last %}
     .

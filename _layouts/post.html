@@ -29,6 +29,7 @@ layout: default
   <span>
     {% for tag in page.tags %}
       <a href="{{ '/tag/' | append:tag }}.html" rel="tag"> 
+
          {{ tag }} 
         {% if forloop.last %}
         .
