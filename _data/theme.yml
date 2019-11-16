@@ -1,7 +1,11 @@
 # Theme customization - please change from the defaults!
 
 # Color for top bar, links, etc
+<<<<<<< HEAD
 highlight_color: '#889CA3'
+=======
+highlight_color: '#6B6B6B'
+>>>>>>> 520388da348b225d243161712f5546648263d28b
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
@@ -15,13 +19,13 @@ social:
   #tumblr: animalygifs
   linkedin: rorypnealon
   #gplus: 110552447039675960964
-  gravatar: a56a951eb3468be20ce3d68c941cf387?s=80
+  gravatar: a56a951eb3468be20ce3d68c941cf387?s=512
   #flickr: johndoe
 
 # "Hi, I'm _______"
 name: Rory Nealon
 email: rpnealon@gmail.com
-tagline: "weak opinions, strongly held"
+tagline: "birds, beers, bikes"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-xxxx-x
