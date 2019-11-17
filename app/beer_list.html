@@ -1,0 +1,27 @@
+---
+layout: hobbies_lists
+permalink: /beer/
+title: Beer
+subtitle: Brewing under the auspices of <a href = https://www.congress.gov/bill/95th-congress/house-bill/1337 target="_blank">H.R. 1337</a>
+
+---
+
+<div id="main" class="wrap" role="main">
+  {% for post in site.categories.beer %}
+    <tr id = inputList >
+      <td>
+        {{ post.date | date_to_string }}
+      </td>
+      <td>
+        <a href="{{ post.url }}">{{ post.title }}</a>    
+      </td>  
+    </tr>
+  {% endfor %}
+</div>
+
+    <!-- <h1>{{ page.title }}</h1>
+
+{% for post in site.categories.beer %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %} -->
+

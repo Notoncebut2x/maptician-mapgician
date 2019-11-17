@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<head>
+    <link href="/assets/styles/main.css" rel="stylesheet" />
+</head>
+
+<div id="main" class="wrap" role="main">
+  <table id="tableShadow" style="width:80%">
+      <tr id=head>
+          <td>  
+            <h1>{{ page.title }}</h1>
+          </td>
+          <td>
+            {{ page.subtitle }}
+          </td>
+      </tr>
+      <tr>
+          {{ content }}
+      </tr>
+  </table>
+
+</div>

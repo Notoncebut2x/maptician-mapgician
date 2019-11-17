@@ -1,0 +1,68 @@
+--- 
+layout: default
+
+---
+
+<head>
+    <link href="/assets/styles/main.css" rel="stylesheet" />
+</head>
+
+<p class="meta">
+  {{ post.date | date: "%B %d, %Y" }}
+  <a href="/">
+    <i class="home fa fa-home"></i>
+  </a>
+</p>
+
+<div id="main" class="wrap" role="main">
+<table id="tableShadow" style="width:80%">
+    <tr id=head>
+        <td>
+          <h1>rcp-{{ page.date | date: "%d-%m-%y" }}</h1>
+        </td>
+        <td>  
+          <h1>{{ page.title }}</h1>
+        </td>
+    </tr>
+    <tr>
+      <td id = inputBeer style = "text-align:center">
+        Background
+      </td>
+      <td id = inputList>
+        <ul style="list-style-type:square">
+          <li> <b>Brewed:</b> {{ page.brewDate | date: "%B %d, %Y" }} </li>
+          <li> <b>Location:</b> {{ page.location }}</li>
+          <li> <b>Hilfsbrauer:</b> {{ page.assistants }}</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td id = inputBeer style = "text-align:center">
+          Ingredients
+      </td>
+      <td id = inputList>
+          <ul style="list-style-type:square"> {% for ingredient in page.ingredients %}
+            <li>{{ ingredient.item }}</li>
+            {% endfor %}
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td id = inputBeer style = "text-align:center">
+            Steps
+      </td>
+      <td id = inputList>
+        <ul style="list-style-type:square"> {% for step in page.steps %}
+          <li>{{ step.item }}</li>
+          {% endfor %}
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td id = inputBeer style = "text-align:center">
+        Story
+      </td>
+      <td id = inputBeer >{{ content }} </td>
+    </tr>
+  </table>
+</div>
