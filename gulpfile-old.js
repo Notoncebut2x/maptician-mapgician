@@ -52,35 +52,10 @@ readPackage();
 // ------------------------- Callable tasks ----------------------------------//
 // ---------------------------------------------------------------------------//
 
-// gulp.task('default', ['clean'], function () {
-//   prodBuild = true;
-//   gulp.start('build');
-// });
-
-// gulp.task('default', gulp.series('clean', function() { 
-//   prodBuild = true;
-//   gulp.start('build');
-// }));
-
-gulp.task('clean', function () {
+gulp.task('default', ['clean'], function () {
   prodBuild = true;
-  gulp.start('build')
+  gulp.start('build');
 });
-
-
-// gulp.task('watch', function () {
-//   gulp.watch('./app/*.scss', gulp.series('sass'));
-//   gulp.watch('./app/js/**/*.js', gulp.series('js'));
-// });
-
-// gulp.task('default', gulp.series('sass', 'js', 'watch'));
-
-
-
-// gulp.task('default', gulp.series('clean', function() { 
-//   prodBuild = true;
-//   gulp.start('build');
-// }));
 
 gulp.task('serve', ['vendorScripts', 'javascript', 'styles', 'jekyll'], function () {
   browserSync({
@@ -91,18 +66,7 @@ gulp.task('serve', ['vendorScripts', 'javascript', 'styles', 'jekyll'], function
         '/node_modules': './node_modules'
       }
     }
-  })  
-
-// gulp.task('serve', gulp.series(gulp.parallel('vendorScripts', 'javascript', 'styles', 'jekyll'), function() {
-//   browserSync({
-//     port: 3000,
-//     server: {
-//       baseDir: ['.tmp', '_site'],
-//       routes: {
-//         '/node_modules': './node_modules'
-//       }
-//     }
-//   });
+  });
 
   // watch for changes
   gulp.watch([

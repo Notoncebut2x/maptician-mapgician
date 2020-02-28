@@ -33,7 +33,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var configurations = {'production': require('./config/production.js'),'staging': require('./config/staging.js')};
 var config = configurations.local || {};
 
-if ("development" === 'staging') {
+if ("production" === 'staging') {
   (0, _lodash2.default)(config, configurations.staging);
 }
 (0, _lodash2.default)(config, configurations.production);
